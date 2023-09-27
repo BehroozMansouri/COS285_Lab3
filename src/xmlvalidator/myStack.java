@@ -33,5 +33,8 @@ public class myStack implements IStack{
         // TODO Auto-generated method stub
         return stack.isEmpty();
     }
-
+    public void print()
+    {
+        
+    }
 }
