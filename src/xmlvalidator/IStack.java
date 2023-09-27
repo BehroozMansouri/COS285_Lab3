@@ -1,9 +1,9 @@
 package xmlvalidator;
 
 public interface IStack{
-    void push (Character c);
-    Character pop();
-    Character peek();
+    void push (String c);
+    String pop();
+    String peek();
     boolean isEmpty();
 }
 
